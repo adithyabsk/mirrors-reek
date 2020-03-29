@@ -4,5 +4,5 @@ Gem::Specification.new do |s|
     s.authors = ['Anthony Sottile']
     s.summary = 'A fake mirror gem for reek'
     s.description = 'A fake mirror gem for reek'
-    s.add_dependency 'reek', '4.8.2'
+    s.add_dependency 'reek', '5.0.0'
 end
