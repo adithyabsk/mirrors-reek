@@ -1,0 +1,8 @@
+-   id: reek
+    name: reek
+    entry: reek
+    language: ruby
+    'types': [ruby]
+    args: []
+    require_serial: false
+    additional_dependencies: []
